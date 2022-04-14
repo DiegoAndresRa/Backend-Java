@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Semana1.Herencia</OriginalElement>
+  <nodes>
+    <node x="4.5" y="322.0">Semana1.Herencia.Skwinklote</node>
+    <node x="0.0" y="0.0">Semana1.Herencia.Skwinkles</node>
+    <node x="191.0" y="0.0">Semana1.Herencia.PruebaSkwinkles</node>
+    <node x="6.5" y="194.0">Semana1.Herencia.Rellenos</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Semana1.Herencia.Skwinklote" target="Semana1.Herencia.Rellenos" relationship="GENERALIZATION">
+      <point x="0.0" y="-27.5" />
+      <point x="0.0" y="39.0" />
+    </edge>
+    <edge source="Semana1.Herencia.Rellenos" target="Semana1.Herencia.Skwinkles" relationship="GENERALIZATION">
+      <point x="0.0" y="-39.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="188.5" y="188.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

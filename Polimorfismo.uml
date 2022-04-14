@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Semana1.Polimorfismo</OriginalElement>
+  <nodes>
+    <node x="121.5" y="195.0">Semana1.Polimorfismo.ChocolateStick</node>
+    <node x="108.5" y="0.0">Semana1.Polimorfismo.ChocolateDulce</node>
+    <node x="217.0" y="497.0">Semana1.Polimorfismo.Chocogalleta</node>
+    <node x="0.0" y="497.0">Semana1.Polimorfismo.CrunchCrisp</node>
+    <node x="238.0" y="346.0">Semana1.Polimorfismo.CarlosQuinto</node>
+    <node x="23.0" y="346.0">Semana1.Polimorfismo.Crunch</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Semana1.Polimorfismo.CarlosQuinto" target="Semana1.Polimorfismo.ChocolateStick" relationship="GENERALIZATION">
+      <point x="0.0" y="-50.5" />
+      <point x="315.5" y="321.0" />
+      <point x="207.0" y="321.0" />
+      <point x="0.0" y="50.5" />
+    </edge>
+    <edge source="Semana1.Polimorfismo.Crunch" target="Semana1.Polimorfismo.ChocolateStick" relationship="GENERALIZATION">
+      <point x="0.0" y="-50.5" />
+      <point x="98.5" y="321.0" />
+      <point x="207.0" y="321.0" />
+      <point x="0.0" y="50.5" />
+    </edge>
+    <edge source="Semana1.Polimorfismo.ChocolateStick" target="Semana1.Polimorfismo.ChocolateDulce" relationship="GENERALIZATION">
+      <point x="0.0" y="-50.5" />
+      <point x="0.0" y="72.5" />
+    </edge>
+    <edge source="Semana1.Polimorfismo.Chocogalleta" target="Semana1.Polimorfismo.CarlosQuinto" relationship="GENERALIZATION">
+      <point x="0.0" y="-50.0" />
+      <point x="0.0" y="50.5" />
+    </edge>
+    <edge source="Semana1.Polimorfismo.CrunchCrisp" target="Semana1.Polimorfismo.Crunch" relationship="GENERALIZATION">
+      <point x="0.0" y="-50.0" />
+      <point x="0.0" y="50.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="207.0" y="298.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
